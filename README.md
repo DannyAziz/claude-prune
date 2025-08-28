@@ -87,8 +87,8 @@ For example, a project at `/Users/alice/my-app` becomes:
 
 ```bash
 # Clone and install
-git clone https://github.com/dannyaziz/cc-prune.git
-cd cc-prune
+git clone https://github.com/DannyAziz/claude-prune.git
+cd claude-prune
 bun install
 
 # Run tests
